@@ -29,7 +29,7 @@ TaskList.propTypes = {
       isComplete: PropTypes.bool.isRequired,
     })
     ).isRequired,
-    toggleTask: PropTypes.func.isRequired
+    toggleTask: PropTypes.func.isRequired,
     deleteTask: PropTypes.func.isRequired
 };
 
